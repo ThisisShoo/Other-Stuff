@@ -1,0 +1,9 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'Zheng_Shuhan_statement.blg'
+[91] biber-MSWIN64:340> INFO - === 
+[118] Biber.pm:418> INFO - Reading 'Zheng_Shuhan_statement.bcf'
+[216] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
+[227] bbl.pm:654> INFO - Writing 'Zheng_Shuhan_statement.bbl' with encoding 'UTF-8'
+[227] bbl.pm:757> INFO - Output to Zheng_Shuhan_statement.bbl
+[227] Biber.pm:130> WARN - The file 'Zheng_Shuhan_statement.bcf' does not contain any citations!
+[227] Biber.pm:132> INFO - WARNINGS: 1
